@@ -1,2 +1,2 @@
-# repository-homework1
-test basic repository functions
+학번: 2020732043
+이름: 김승환
