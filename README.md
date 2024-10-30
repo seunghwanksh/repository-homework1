@@ -1,2 +1,2 @@
-학번: 2020732043 -> 생년 월일: 2000년 08월 07일  
-이름: 김승환 -> 영문 이름: Seunghwan Kim
+![image](https://github.com/user-attachments/assets/94bb0797-95a6-417c-8dbf-348c1a0cb659)
+![image](https://github.com/user-attachments/assets/348282ad-baa0-4f11-aa0a-fcd5811c4133)
